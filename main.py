@@ -1,4 +1,4 @@
-﻿
+
 from fate import FortuneSystem, FateSystem, HistorySystem
 
 
@@ -16,7 +16,7 @@ def print_menu():
     """Print the main menu."""
     print("\nChoose an option:")
     print("1. Daily Fortune")
-    print("2. Decision Fate")
+    print("2. Mystery Boxes Fate Assist")
     print("3. View History")
     print("0. Exit")
 
@@ -49,28 +49,57 @@ def show_daily_fortune(fortune_system, history_system):
 
 
 def show_fate_answer(fate_system, history_system):
-    """Feature 2: Ask a question and get fate answer."""
-    print("\nEnter your question:")
-    question = input("> ").strip()
-
-    if question == "":
-        question = "(No question entered)"
-
+    """Feature 2: Mystery Boxes Fate Assist System."""
     while True:
-        result = fate_system.ask(question)
+        print("\nMystery Boxes Fate Assist System")
+        print("Enter your choices one by one.")
+        print("Press Enter on an empty line when you finish entering choices.")
+        print("Then use a separate command to start analysis.")
+        print("Type 0 to return to the main menu.")
 
-        answer_text = result["fate_answer"]
-        line_text = f"Fate says: {answer_text}"
-        width = len(line_text) + 8
+        choices = []
+        count = 1
+
+        while True:
+            value = input(f"Choice {count}: ").strip()
+
+            if value == "0":
+                return
+            if value == "":
+                break
+
+            choices.append(value)
+            count += 1
+
+        if len(choices) == 0:
+            print("Please enter at least one choice before analysis.")
+            continue
+
+        while True:
+            cmd = input("\nEnter command (S=start analysis, 0=main menu): ").strip().lower()
+            if cmd == "0":
+                return
+            if cmd == "s":
+                break
+            print("Invalid command. Please type S or 0.")
+
+        result = fate_system.analyze_choices(choices)
 
         print()
-        print("-" * width)
-        print(line_text.center(width))
-        print("-" * width)
+        print("+======================================+")
+        print("|         Parallel Fate Analysis       |")
+        print("+======================================+")
+        print(f"Recommended Choice: {result['recommended_choice']}")
+        print()
+        print(f"Lucky resonance: {result['resonance']}")
+        print(f"Parallel energy: {result['parallel_energy']}")
+        print(f"Lucky color: {result['lucky_color']}")
+        print("========================================")
+        print(f"Fate message: {result['fate_message']}")
 
         history_system.save_fate(result)
 
-        back = input("\nType 2 for another answer, or 0 for main menu: ").strip()
+        back = input("\nType 2 for another analysis, or 0 for main menu: ").strip()
         if back == "2":
             continue
         if back == "0":
@@ -101,10 +130,20 @@ def show_history(history_system):
         print("No fate records yet.")
     else:
         for i, item in enumerate(fate_history, start=1):
-            print(
-                f"{i}. [{item['time']}] Q: {item['question']} | "
-                f"A: {item['fate_answer']}"
-            )
+            if "input_choices" in item and "recommended_choice" in item:
+                choice_text = ", ".join(item.get("input_choices", []))
+                print(
+                    f"{i}. [{item['time']}] "
+                    f"Choices: [{choice_text}] | "
+                    f"Recommended: {item.get('recommended_choice', '')} | "
+                    f"Energy: {item.get('parallel_energy', '')} | "
+                    f"Lucky Color: {item.get('lucky_color', '')}"
+                )
+            else:
+                print(
+                    f"{i}. [{item['time']}] Q: {item.get('question', '')} | "
+                    f"A: {item.get('fate_answer', '')}"
+                )
 
     wait_for_enter()
 
