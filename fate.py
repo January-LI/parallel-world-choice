@@ -111,7 +111,6 @@ class FateSystem:
             "system": "Mystery Boxes Fate Assist System",
             "input_choices": choices,
             "recommended_choice": recommended,
-            "recommended_index": selected_index + 1,
             "lucky_color": lucky_color,
             "parallel_energy": energy,
             "resonance": resonance,
@@ -171,7 +170,6 @@ class HistorySystem:
             record["system"] = result.get("system", "Mystery Boxes Fate Assist System")
             record["input_choices"] = result["input_choices"]
             record["recommended_choice"] = result["recommended_choice"]
-            record["recommended_index"] = result.get("recommended_index", 0)
             record["lucky_color"] = result.get("lucky_color", "")
             record["parallel_energy"] = result.get("parallel_energy", "")
             record["resonance"] = result.get("resonance", "")
