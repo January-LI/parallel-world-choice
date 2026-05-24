@@ -2,7 +2,6 @@
 
 A terminal-based fortune and decision oracle system built with Python.
 
----
 
 ## Features
 
@@ -10,7 +9,6 @@ A terminal-based fortune and decision oracle system built with Python.
 - Decision Fate System
 - Random lucky numbers and colors
 
----
 
 ## Files
 
@@ -19,7 +17,6 @@ A terminal-based fortune and decision oracle system built with Python.
 - `fate.py` → Fortune and fate logic
 - `save.json` → Save history data
 
----
 
 ## How to Run
 
