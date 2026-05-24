@@ -1,0 +1,893 @@
+{
+  "fortune_history": [
+    {
+      "time": "2026-05-24 14:51:32",
+      "fortune_level": "Moderate Luck",
+      "fortune_message": "Wait with patience, your season comes.",
+      "lucky_number": 3,
+      "lucky_color": "Azure"
+    }
+  ],
+  "fate_history": [
+    {
+      "time": "2026-05-24 14:51:58",
+      "question": "我选择哪一个更好？",
+      "fate_answer": "Ask again at dawn"
+    },
+    {
+      "time": "2026-05-24 15:23:10",
+      "question": "Will I succeed today?",
+      "fate_answer": "Ask again at dawn"
+    },
+    {
+      "time": "2026-05-24 15:23:24",
+      "question": "Will I succeed today?",
+      "fate_answer": "Not the right time"
+    },
+    {
+      "time": "2026-05-24 15:44:22",
+      "question": "Will I succeed today?",
+      "fate_answer": "Ask again at dawn"
+    },
+    {
+      "time": "2026-05-24 15:44:48",
+      "question": "Will I succeed today?",
+      "fate_answer": "NO"
+    },
+    {
+      "time": "2026-05-24 15:44:53",
+      "question": "Will I succeed today?",
+      "fate_answer": "NO"
+    },
+    {
+      "time": "2026-05-24 15:44:56",
+      "question": "Will I succeed today?",
+      "fate_answer": "Destiny says wait"
+    },
+    {
+      "time": "2026-05-24 15:44:57",
+      "question": "Will I succeed today?",
+      "fate_answer": "Not the right time"
+    },
+    {
+      "time": "2026-05-24 15:44:58",
+      "question": "Will I succeed today?",
+      "fate_answer": "NO"
+    },
+    {
+      "time": "2026-05-24 15:44:59",
+      "question": "Will I succeed today?",
+      "fate_answer": "Ask again at dawn"
+    },
+    {
+      "time": "2026-05-24 15:45:00",
+      "question": "Will I succeed today?",
+      "fate_answer": "Ask again at dawn"
+    },
+    {
+      "time": "2026-05-24 15:45:00",
+      "question": "Will I succeed today?",
+      "fate_answer": "Follow your heart"
+    },
+    {
+      "time": "2026-05-24 15:45:00",
+      "question": "Will I succeed today?",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:45:01",
+      "question": "Will I succeed today?",
+      "fate_answer": "Follow your heart"
+    },
+    {
+      "time": "2026-05-24 15:45:01",
+      "question": "Will I succeed today?",
+      "fate_answer": "Ask again at dawn"
+    },
+    {
+      "time": "2026-05-24 15:45:01",
+      "question": "Will I succeed today?",
+      "fate_answer": "Destiny says wait"
+    },
+    {
+      "time": "2026-05-24 15:46:27",
+      "question": "(No question entered)",
+      "fate_answer": "Destiny says wait"
+    },
+    {
+      "time": "2026-05-24 15:46:37",
+      "question": "(No question entered)",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:46:38",
+      "question": "(No question entered)",
+      "fate_answer": "Follow your heart"
+    },
+    {
+      "time": "2026-05-24 15:46:42",
+      "question": "(No question entered)",
+      "fate_answer": "Ask again at dawn"
+    },
+    {
+      "time": "2026-05-24 15:46:44",
+      "question": "(No question entered)",
+      "fate_answer": "Destiny says wait"
+    },
+    {
+      "time": "2026-05-24 15:46:45",
+      "question": "(No question entered)",
+      "fate_answer": "Prepare first, then act"
+    },
+    {
+      "time": "2026-05-24 15:46:45",
+      "question": "(No question entered)",
+      "fate_answer": "Destiny says wait"
+    },
+    {
+      "time": "2026-05-24 15:46:45",
+      "question": "(No question entered)",
+      "fate_answer": "Destiny says wait"
+    },
+    {
+      "time": "2026-05-24 15:46:45",
+      "question": "(No question entered)",
+      "fate_answer": "NO"
+    },
+    {
+      "time": "2026-05-24 15:46:45",
+      "question": "(No question entered)",
+      "fate_answer": "NO"
+    },
+    {
+      "time": "2026-05-24 15:46:45",
+      "question": "(No question entered)",
+      "fate_answer": "Destiny says wait"
+    },
+    {
+      "time": "2026-05-24 15:46:46",
+      "question": "(No question entered)",
+      "fate_answer": "Prepare first, then act"
+    },
+    {
+      "time": "2026-05-24 15:46:46",
+      "question": "(No question entered)",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:46:46",
+      "question": "(No question entered)",
+      "fate_answer": "Follow your heart"
+    },
+    {
+      "time": "2026-05-24 15:46:46",
+      "question": "(No question entered)",
+      "fate_answer": "Follow your heart"
+    },
+    {
+      "time": "2026-05-24 15:46:46",
+      "question": "(No question entered)",
+      "fate_answer": "NO"
+    },
+    {
+      "time": "2026-05-24 15:46:46",
+      "question": "(No question entered)",
+      "fate_answer": "Prepare first, then act"
+    },
+    {
+      "time": "2026-05-24 15:46:47",
+      "question": "(No question entered)",
+      "fate_answer": "Ask again at dawn"
+    },
+    {
+      "time": "2026-05-24 15:46:47",
+      "question": "(No question entered)",
+      "fate_answer": "Worth a try"
+    },
+    {
+      "time": "2026-05-24 15:46:47",
+      "question": "(No question entered)",
+      "fate_answer": "NO"
+    },
+    {
+      "time": "2026-05-24 15:46:47",
+      "question": "(No question entered)",
+      "fate_answer": "Prepare first, then act"
+    },
+    {
+      "time": "2026-05-24 15:46:47",
+      "question": "(No question entered)",
+      "fate_answer": "Prepare first, then act"
+    },
+    {
+      "time": "2026-05-24 15:47:02",
+      "question": "(No question entered)",
+      "fate_answer": "NO"
+    },
+    {
+      "time": "2026-05-24 15:47:03",
+      "question": "(No question entered)",
+      "fate_answer": "Not the right time"
+    },
+    {
+      "time": "2026-05-24 15:47:03",
+      "question": "(No question entered)",
+      "fate_answer": "Worth a try"
+    },
+    {
+      "time": "2026-05-24 15:47:03",
+      "question": "(No question entered)",
+      "fate_answer": "NO"
+    },
+    {
+      "time": "2026-05-24 15:47:04",
+      "question": "(No question entered)",
+      "fate_answer": "Destiny says wait"
+    },
+    {
+      "time": "2026-05-24 15:47:04",
+      "question": "(No question entered)",
+      "fate_answer": "Worth a try"
+    },
+    {
+      "time": "2026-05-24 15:47:04",
+      "question": "(No question entered)",
+      "fate_answer": "Destiny says wait"
+    },
+    {
+      "time": "2026-05-24 15:47:04",
+      "question": "(No question entered)",
+      "fate_answer": "Worth a try"
+    },
+    {
+      "time": "2026-05-24 15:47:04",
+      "question": "(No question entered)",
+      "fate_answer": "Follow your heart"
+    },
+    {
+      "time": "2026-05-24 15:47:04",
+      "question": "(No question entered)",
+      "fate_answer": "Worth a try"
+    },
+    {
+      "time": "2026-05-24 15:47:05",
+      "question": "(No question entered)",
+      "fate_answer": "Worth a try"
+    },
+    {
+      "time": "2026-05-24 15:47:05",
+      "question": "(No question entered)",
+      "fate_answer": "NO"
+    },
+    {
+      "time": "2026-05-24 15:47:05",
+      "question": "(No question entered)",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:47:05",
+      "question": "(No question entered)",
+      "fate_answer": "Worth a try"
+    },
+    {
+      "time": "2026-05-24 15:47:05",
+      "question": "(No question entered)",
+      "fate_answer": "Not the right time"
+    },
+    {
+      "time": "2026-05-24 15:47:05",
+      "question": "(No question entered)",
+      "fate_answer": "Ask again at dawn"
+    },
+    {
+      "time": "2026-05-24 15:47:06",
+      "question": "(No question entered)",
+      "fate_answer": "Prepare first, then act"
+    },
+    {
+      "time": "2026-05-24 15:47:06",
+      "question": "(No question entered)",
+      "fate_answer": "Prepare first, then act"
+    },
+    {
+      "time": "2026-05-24 15:47:06",
+      "question": "(No question entered)",
+      "fate_answer": "Follow your heart"
+    },
+    {
+      "time": "2026-05-24 15:47:06",
+      "question": "(No question entered)",
+      "fate_answer": "Destiny says wait"
+    },
+    {
+      "time": "2026-05-24 15:47:06",
+      "question": "(No question entered)",
+      "fate_answer": "Destiny says wait"
+    },
+    {
+      "time": "2026-05-24 15:47:06",
+      "question": "(No question entered)",
+      "fate_answer": "Ask again at dawn"
+    },
+    {
+      "time": "2026-05-24 15:47:07",
+      "question": "(No question entered)",
+      "fate_answer": "Follow your heart"
+    },
+    {
+      "time": "2026-05-24 15:47:07",
+      "question": "(No question entered)",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:47:07",
+      "question": "(No question entered)",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:47:07",
+      "question": "(No question entered)",
+      "fate_answer": "Ask again at dawn"
+    },
+    {
+      "time": "2026-05-24 15:47:07",
+      "question": "(No question entered)",
+      "fate_answer": "Follow your heart"
+    },
+    {
+      "time": "2026-05-24 15:47:07",
+      "question": "(No question entered)",
+      "fate_answer": "Ask again at dawn"
+    },
+    {
+      "time": "2026-05-24 15:47:08",
+      "question": "(No question entered)",
+      "fate_answer": "Prepare first, then act"
+    },
+    {
+      "time": "2026-05-24 15:47:08",
+      "question": "(No question entered)",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:47:59",
+      "question": "(No question entered)",
+      "fate_answer": "Not the right time"
+    },
+    {
+      "time": "2026-05-24 15:48:16",
+      "question": "(No question entered)",
+      "fate_answer": "NO"
+    },
+    {
+      "time": "2026-05-24 15:48:16",
+      "question": "(No question entered)",
+      "fate_answer": "Follow your heart"
+    },
+    {
+      "time": "2026-05-24 15:48:16",
+      "question": "(No question entered)",
+      "fate_answer": "NO"
+    },
+    {
+      "time": "2026-05-24 15:48:17",
+      "question": "(No question entered)",
+      "fate_answer": "Destiny says wait"
+    },
+    {
+      "time": "2026-05-24 15:48:18",
+      "question": "(No question entered)",
+      "fate_answer": "Worth a try"
+    },
+    {
+      "time": "2026-05-24 15:48:18",
+      "question": "(No question entered)",
+      "fate_answer": "Not the right time"
+    },
+    {
+      "time": "2026-05-24 15:48:18",
+      "question": "(No question entered)",
+      "fate_answer": "Ask again at dawn"
+    },
+    {
+      "time": "2026-05-24 15:48:18",
+      "question": "(No question entered)",
+      "fate_answer": "Not the right time"
+    },
+    {
+      "time": "2026-05-24 15:48:18",
+      "question": "(No question entered)",
+      "fate_answer": "Follow your heart"
+    },
+    {
+      "time": "2026-05-24 15:48:19",
+      "question": "(No question entered)",
+      "fate_answer": "Worth a try"
+    },
+    {
+      "time": "2026-05-24 15:48:19",
+      "question": "(No question entered)",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:48:19",
+      "question": "(No question entered)",
+      "fate_answer": "Worth a try"
+    },
+    {
+      "time": "2026-05-24 15:48:19",
+      "question": "(No question entered)",
+      "fate_answer": "Destiny says wait"
+    },
+    {
+      "time": "2026-05-24 15:48:20",
+      "question": "(No question entered)",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:48:20",
+      "question": "(No question entered)",
+      "fate_answer": "Not the right time"
+    },
+    {
+      "time": "2026-05-24 15:48:20",
+      "question": "(No question entered)",
+      "fate_answer": "Worth a try"
+    },
+    {
+      "time": "2026-05-24 15:48:20",
+      "question": "(No question entered)",
+      "fate_answer": "Ask again at dawn"
+    },
+    {
+      "time": "2026-05-24 15:48:20",
+      "question": "(No question entered)",
+      "fate_answer": "NO"
+    },
+    {
+      "time": "2026-05-24 15:48:20",
+      "question": "(No question entered)",
+      "fate_answer": "Worth a try"
+    },
+    {
+      "time": "2026-05-24 15:48:21",
+      "question": "(No question entered)",
+      "fate_answer": "Prepare first, then act"
+    },
+    {
+      "time": "2026-05-24 15:48:21",
+      "question": "(No question entered)",
+      "fate_answer": "Worth a try"
+    },
+    {
+      "time": "2026-05-24 15:48:21",
+      "question": "(No question entered)",
+      "fate_answer": "Follow your heart"
+    },
+    {
+      "time": "2026-05-24 15:48:21",
+      "question": "(No question entered)",
+      "fate_answer": "Follow your heart"
+    },
+    {
+      "time": "2026-05-24 15:48:21",
+      "question": "(No question entered)",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:48:21",
+      "question": "(No question entered)",
+      "fate_answer": "Not the right time"
+    },
+    {
+      "time": "2026-05-24 15:48:22",
+      "question": "(No question entered)",
+      "fate_answer": "NO"
+    },
+    {
+      "time": "2026-05-24 15:48:22",
+      "question": "(No question entered)",
+      "fate_answer": "Ask again at dawn"
+    },
+    {
+      "time": "2026-05-24 15:48:22",
+      "question": "(No question entered)",
+      "fate_answer": "Follow your heart"
+    },
+    {
+      "time": "2026-05-24 15:48:22",
+      "question": "(No question entered)",
+      "fate_answer": "Ask again at dawn"
+    },
+    {
+      "time": "2026-05-24 15:48:22",
+      "question": "(No question entered)",
+      "fate_answer": "Not the right time"
+    },
+    {
+      "time": "2026-05-24 15:48:23",
+      "question": "(No question entered)",
+      "fate_answer": "Ask again at dawn"
+    },
+    {
+      "time": "2026-05-24 15:48:23",
+      "question": "(No question entered)",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:48:23",
+      "question": "(No question entered)",
+      "fate_answer": "Destiny says wait"
+    },
+    {
+      "time": "2026-05-24 15:48:23",
+      "question": "(No question entered)",
+      "fate_answer": "Prepare first, then act"
+    },
+    {
+      "time": "2026-05-24 15:48:23",
+      "question": "(No question entered)",
+      "fate_answer": "Worth a try"
+    },
+    {
+      "time": "2026-05-24 15:48:23",
+      "question": "(No question entered)",
+      "fate_answer": "Destiny says wait"
+    },
+    {
+      "time": "2026-05-24 15:48:24",
+      "question": "(No question entered)",
+      "fate_answer": "Ask again at dawn"
+    },
+    {
+      "time": "2026-05-24 15:48:24",
+      "question": "(No question entered)",
+      "fate_answer": "Worth a try"
+    },
+    {
+      "time": "2026-05-24 15:48:25",
+      "question": "(No question entered)",
+      "fate_answer": "Prepare first, then act"
+    },
+    {
+      "time": "2026-05-24 15:48:25",
+      "question": "(No question entered)",
+      "fate_answer": "Not the right time"
+    },
+    {
+      "time": "2026-05-24 15:48:25",
+      "question": "(No question entered)",
+      "fate_answer": "Worth a try"
+    },
+    {
+      "time": "2026-05-24 15:48:25",
+      "question": "(No question entered)",
+      "fate_answer": "Destiny says wait"
+    },
+    {
+      "time": "2026-05-24 15:48:25",
+      "question": "(No question entered)",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:48:25",
+      "question": "(No question entered)",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:48:34",
+      "question": "(No question entered)",
+      "fate_answer": "Follow your heart"
+    },
+    {
+      "time": "2026-05-24 15:48:35",
+      "question": "(No question entered)",
+      "fate_answer": "Worth a try"
+    },
+    {
+      "time": "2026-05-24 15:48:35",
+      "question": "(No question entered)",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:48:35",
+      "question": "(No question entered)",
+      "fate_answer": "Destiny says wait"
+    },
+    {
+      "time": "2026-05-24 15:48:35",
+      "question": "(No question entered)",
+      "fate_answer": "Destiny says wait"
+    },
+    {
+      "time": "2026-05-24 15:48:36",
+      "question": "(No question entered)",
+      "fate_answer": "Not the right time"
+    },
+    {
+      "time": "2026-05-24 15:48:36",
+      "question": "(No question entered)",
+      "fate_answer": "Worth a try"
+    },
+    {
+      "time": "2026-05-24 15:49:08",
+      "question": "(No question entered)",
+      "fate_answer": "Prepare first, then act"
+    },
+    {
+      "time": "2026-05-24 15:49:11",
+      "question": "(No question entered)",
+      "fate_answer": "Ask again at dawn"
+    },
+    {
+      "time": "2026-05-24 15:49:13",
+      "question": "(No question entered)",
+      "fate_answer": "NO"
+    },
+    {
+      "time": "2026-05-24 15:49:14",
+      "question": "(No question entered)",
+      "fate_answer": "NO"
+    },
+    {
+      "time": "2026-05-24 15:49:14",
+      "question": "(No question entered)",
+      "fate_answer": "Destiny says wait"
+    },
+    {
+      "time": "2026-05-24 15:49:15",
+      "question": "(No question entered)",
+      "fate_answer": "NO"
+    },
+    {
+      "time": "2026-05-24 15:49:15",
+      "question": "(No question entered)",
+      "fate_answer": "Prepare first, then act"
+    },
+    {
+      "time": "2026-05-24 15:49:15",
+      "question": "(No question entered)",
+      "fate_answer": "Follow your heart"
+    },
+    {
+      "time": "2026-05-24 15:49:16",
+      "question": "(No question entered)",
+      "fate_answer": "Prepare first, then act"
+    },
+    {
+      "time": "2026-05-24 15:49:16",
+      "question": "(No question entered)",
+      "fate_answer": "Worth a try"
+    },
+    {
+      "time": "2026-05-24 15:49:17",
+      "question": "(No question entered)",
+      "fate_answer": "NO"
+    },
+    {
+      "time": "2026-05-24 15:49:17",
+      "question": "(No question entered)",
+      "fate_answer": "Not the right time"
+    },
+    {
+      "time": "2026-05-24 15:49:17",
+      "question": "(No question entered)",
+      "fate_answer": "NO"
+    },
+    {
+      "time": "2026-05-24 15:49:18",
+      "question": "(No question entered)",
+      "fate_answer": "NO"
+    },
+    {
+      "time": "2026-05-24 15:49:18",
+      "question": "(No question entered)",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:49:19",
+      "question": "(No question entered)",
+      "fate_answer": "Prepare first, then act"
+    },
+    {
+      "time": "2026-05-24 15:49:19",
+      "question": "(No question entered)",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:49:19",
+      "question": "(No question entered)",
+      "fate_answer": "Destiny says wait"
+    },
+    {
+      "time": "2026-05-24 15:49:20",
+      "question": "(No question entered)",
+      "fate_answer": "Destiny says wait"
+    },
+    {
+      "time": "2026-05-24 15:49:41",
+      "question": "(No question entered)",
+      "fate_answer": "NO"
+    },
+    {
+      "time": "2026-05-24 15:49:42",
+      "question": "(No question entered)",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:49:42",
+      "question": "(No question entered)",
+      "fate_answer": "Not the right time"
+    },
+    {
+      "time": "2026-05-24 15:49:43",
+      "question": "(No question entered)",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:49:43",
+      "question": "(No question entered)",
+      "fate_answer": "Not the right time"
+    },
+    {
+      "time": "2026-05-24 15:49:44",
+      "question": "(No question entered)",
+      "fate_answer": "Prepare first, then act"
+    },
+    {
+      "time": "2026-05-24 15:49:44",
+      "question": "(No question entered)",
+      "fate_answer": "Worth a try"
+    },
+    {
+      "time": "2026-05-24 15:49:45",
+      "question": "(No question entered)",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:49:45",
+      "question": "(No question entered)",
+      "fate_answer": "Prepare first, then act"
+    },
+    {
+      "time": "2026-05-24 15:50:19",
+      "question": "2",
+      "fate_answer": "Follow your heart"
+    },
+    {
+      "time": "2026-05-24 15:50:21",
+      "question": "2",
+      "fate_answer": "NO"
+    },
+    {
+      "time": "2026-05-24 15:50:21",
+      "question": "2",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:50:21",
+      "question": "2",
+      "fate_answer": "Follow your heart"
+    },
+    {
+      "time": "2026-05-24 15:50:22",
+      "question": "2",
+      "fate_answer": "Destiny says wait"
+    },
+    {
+      "time": "2026-05-24 15:50:22",
+      "question": "2",
+      "fate_answer": "Ask again at dawn"
+    },
+    {
+      "time": "2026-05-24 15:50:22",
+      "question": "2",
+      "fate_answer": "NO"
+    },
+    {
+      "time": "2026-05-24 15:50:23",
+      "question": "2",
+      "fate_answer": "Follow your heart"
+    },
+    {
+      "time": "2026-05-24 15:50:23",
+      "question": "2",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:50:23",
+      "question": "2",
+      "fate_answer": "Ask again at dawn"
+    },
+    {
+      "time": "2026-05-24 15:50:24",
+      "question": "2",
+      "fate_answer": "Prepare first, then act"
+    },
+    {
+      "time": "2026-05-24 15:50:24",
+      "question": "2",
+      "fate_answer": "Prepare first, then act"
+    },
+    {
+      "time": "2026-05-24 15:50:24",
+      "question": "2",
+      "fate_answer": "Not the right time"
+    },
+    {
+      "time": "2026-05-24 15:50:24",
+      "question": "2",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:50:24",
+      "question": "2",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:50:25",
+      "question": "2",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:50:25",
+      "question": "2",
+      "fate_answer": "Prepare first, then act"
+    },
+    {
+      "time": "2026-05-24 15:50:25",
+      "question": "2",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:50:25",
+      "question": "2",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:50:25",
+      "question": "2",
+      "fate_answer": "Not the right time"
+    },
+    {
+      "time": "2026-05-24 15:51:26",
+      "question": "fate_answers = [",
+      "fate_answer": "Ask again at dawn"
+    },
+    {
+      "time": "2026-05-24 15:51:29",
+      "question": "fate_answers = [",
+      "fate_answer": "The future feels promising"
+    },
+    {
+      "time": "2026-05-24 15:51:44",
+      "question": "fate_answers = [",
+      "fate_answer": "YES"
+    },
+    {
+      "time": "2026-05-24 15:51:45",
+      "question": "fate_answers = [",
+      "fate_answer": "The future feels promising"
+    },
+    {
+      "time": "2026-05-24 15:51:45",
+      "question": "fate_answers = [",
+      "fate_answer": "A small risk may bring reward"
+    },
+    {
+      "time": "2026-05-24 15:51:45",
+      "question": "fate_answers = [",
+      "fate_answer": "The future feels promising"
+    },
+    {
+      "time": "2026-05-24 15:51:46",
+      "question": "fate_answers = [",
+      "fate_answer": "Proceed with caution"
+    },
+    {
+      "time": "2026-05-24 15:51:48",
+      "question": "fate_answers = [",
+      "fate_answer": "The answer may already be within you"
+    }
+  ]
+}
